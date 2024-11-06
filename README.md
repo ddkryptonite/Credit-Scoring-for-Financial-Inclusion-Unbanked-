@@ -40,7 +40,6 @@ The analysis integrates data from the following tables in a local MySQL database
 ## Credit Scoring Model
 The project developed a credit scoring model using a Random Forest Classifier, achieving an accuracy of 60% on the test set.
 
-![Credit Scoring Model Accuracy](https://via.placeholder.com/600x400)
 
 The model was trained on features engineered from the dataset, including income, account age, employment status, and loan amount. Hyperparameter tuning was performed using GridSearchCV to optimize the model's performance.
 
